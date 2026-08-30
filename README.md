@@ -70,11 +70,9 @@ Expenses Tab
 ---
 
 🛠 Future Enhancements
-Reports tab with charts (expenses by category).
-
-Edit/Delete functionality for accounts and expenses.
-
-Export to CSV/Excel.
+- Reports tab with charts (expenses by category).
+- Edit/Delete functionality for accounts and expenses.
+- Export to CSV/Excel.
 
 ---
 
