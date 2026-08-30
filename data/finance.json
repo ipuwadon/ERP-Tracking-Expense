@@ -1,0 +1,47 @@
+{
+    "accounts": {
+        "Bank A": 3400.0,
+        "Investment": 2250.0,
+        "Bank B": 1250.0,
+        "Bank C": 2500.0,
+        "Bank E": 2000.0
+    },
+    "expenses": [
+        {
+            "item": "Travel",
+            "amount": 1800.0,
+            "account": "Bank A",
+            "category": "Personal"
+        },
+        {
+            "item": "Dinner",
+            "amount": 500,
+            "account": "Bank B",
+            "category": "Food"
+        },
+        {
+            "item": "Buy Mouse",
+            "amount": 1200.0,
+            "account": "Bank A",
+            "category": "Service"
+        },
+        {
+            "item": "Dinner",
+            "amount": 500.0,
+            "account": "Bank C",
+            "category": "Food"
+        },
+        {
+            "item": "Car Service",
+            "amount": 900.0,
+            "account": "Bank D",
+            "category": "Service"
+        },
+        {
+            "item": "Breakfast",
+            "amount": 600.0,
+            "account": "Bank C",
+            "category": "Food"
+        }
+    ]
+}
